@@ -1,0 +1,39 @@
+_repo: Selections-from-the-Observator--1681-1687-_40339
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Jordain, Violet
+    gutenberg_agent_id: '40562'
+    url: http://www.gutenberg.org/2009/agents/40562
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: L'Estrange, Roger, Sir
+    aliases:
+    - L'Estrange, R. (Roger), Sir
+    - L'Estrange, Sir Roger
+    birthdate: 1616
+    deathdate: 1704
+    gutenberg_agent_id: '39411'
+    url: http://www.gutenberg.org/2009/agents/39411
+    wikipedia: http://en.wikipedia.org/wiki/Roger_L'Estrange
+description: ''
+gutenberg_issued: '2012-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40339'
+  lccn: '76633345'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Augustan Reprint Society, publication number 141
+subjects:
+- !lcc 'DA'
+- !lcsh 'Dialogues, English'
+- !lcsh 'Character sketches -- Early works to 1800'
+- !lcsh 'Great Britain -- Politics and government -- 1660-1688'
+title: Selections from the Observator (1681-1687)
+url: http://www.gutenberg.org/ebooks/40339
