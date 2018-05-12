@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39411
     wikipedia: http://en.wikipedia.org/wiki/Roger_L'Estrange
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40339#Selections-from-the-Observator--1681-1687-
 gutenberg_issued: '2012-07-26'
 gutenberg_type: Text
 identifiers:
